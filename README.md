@@ -1,7 +1,5 @@
 <a href="https://youtube.com/ImonHosenAbir/?sub_confirmation=1" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/201150526?v=4" 
-       alt="profile" 
-       style="width:200px; border-radius: 50%; display: block;" />
+  <img src="https://avatars.githubusercontent.com/u/201150526?v=4" width="200" alt="profile"/>
 </a>
 
 ### Hi there 👋
