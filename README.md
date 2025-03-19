@@ -1,10 +1,9 @@
-<a href="https://youtube.com/JSBangladesh/?sub_confirmation=1" target="_blank">
-<img src="https://saidur.dev/wp-content/uploads/2021/05/saidur-rahman.jpg" alt="profile" />
+<a href="https://youtube.com/ImonHosenAbir/?sub_confirmation=1" target="_blank">
+<img src="https://avatars.githubusercontent.com/u/201150526?v=4" alt="profile" />
 </a>
 
-### Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
-Saidur Rahman Setu is a content creator and Founder of <a href="https://jsbangladesh.com">JS Bangladesh</a>. He has a passion for teaching and sharing knowledge which led him to start this [YouTube channel](https://youtube.com/JSBangladesh) in 2019, where he teaches Programming and Web Design related topics.
+### Hi there 👋
+Imon Hosen Abir is a content creator and Founder of <a href="https://jsbangladesh.com">JS Bangladesh</a>. He has a passion for teaching and sharing knowledge which led him to start this [YouTube channel](https://youtube.com/JSBangladesh) in 2019, where he teaches Programming and Web Design related topics.
 
 </p>
 
