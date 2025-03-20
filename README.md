@@ -1,5 +1,5 @@
 <a href="https://youtube.com/ImonHosen/?sub_confirmation=1" target="_blank">
-  <img style="height:auto;" alt="" src="https://avatars.githubusercontent.com/u/201150526?v=4" width="260" height="260" class="avatar avatar-user width-full border color-bg-default">
+  <img src="https://avatars.githubusercontent.com/u/201150526?v=4" width="260" height="260">
 </a>
 
 ### Hi there 👋
