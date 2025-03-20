@@ -11,9 +11,11 @@ Imon Hosen Abir is a content creator and Founder of <a href="https://jsbanglades
 
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCce4hukXMmW8gRa5HmNOxcw?label=YouTube&style=social)][y]
 [![Github](https://img.shields.io/github/followers/srsetu?style=social&label=Follow)][g]
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCce4hukXMmW8gRa5HmNOxcw?label=YouTube&style=social)][y]  
-[![GitHub](https://img.shields.io/github/followers/imsenabir?style=social&label=Follow)][g]  
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=social&logo=facebook)][f]
+
+[![Facebook Followers](https://img.shields.io/badge/dynamic/json?color=blue&label=Followers&query=follower_count&url=https://graph.facebook.com/v12.0/imon.hosen.abir?fields=followers_count&access_token=YOUR_ACCESS_TOKEN&logo=facebook)][f]
+
+[f]: https://www.facebook.com/imon.hosen.abir
 
 [y]: https://youtube.com/ImonHosenAbir  
 [g]: https://github.com/imsenabir  
