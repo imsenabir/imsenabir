@@ -20,7 +20,7 @@ I'm a Full-Stack Developer in progress, currently learning PHP Laravel & Vue.js 
 [![Facebook Followers](https://img.shields.io/badge/Facebook-10K_Followers-blue?style=social&logo=facebook)][f]
 
 [f]: https://www.facebook.com/imon.hosen.abir
-[y]: https://youtube.com/ImonHosenAbir  
+[y]: https://youtube.com/@ImonHosen
 [g]: https://github.com/imsenabir  
 
 📫 Let's connect: imonhosenabir@gmail.com
