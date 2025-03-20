@@ -1,5 +1,5 @@
 <a href="https://youtube.com/ImonHosen/?sub_confirmation=1" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/201150526?v=4" width="190" height="190">
+  <img src="https://avatars.githubusercontent.com/u/201150526?s=400&u=8a234e69f5209c6bcb7021f67f97edd5a93810b0&v=4" width="190" height="190">
 </a>
 
 ### Hi there 👋
