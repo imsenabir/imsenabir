@@ -3,7 +3,13 @@
 </a>
 
 ### Hi there 👋
-Imon Hosen Abir is a content creator and Founder of <a href="https://jsbangladesh.com">JS Bangladesh</a>. He has a passion for teaching and sharing knowledge which led him to start this [YouTube channel](https://youtube.com/JSBangladesh) in 2019, where he teaches Programming and Web Design related topics.
+I'm a Full-Stack Developer in progress, currently learning PHP Laravel & Vue.js to build powerful, dynamic web applications.
+
+💡 While I'm diving deep into full-stack development, I also have extensive experience in frontend website customization, graphic design, video editing, and WordPress development. My creative background helps me craft visually stunning and highly functional web experiences.
+
+🌱 Currently Learning: Vue.js, RESTful APIs, and modern web development best practices. I already have experience in Laravel.
+
+🚀 Excited to sharpen my skills, contribute to projects, and collaborate with like-minded developers!
 
 </p>
 
@@ -14,33 +20,10 @@ Imon Hosen Abir is a content creator and Founder of <a href="https://jsbanglades
 [![Facebook Followers](https://img.shields.io/badge/Facebook-10K_Followers-blue?style=social&logo=facebook)][f]
 
 [f]: https://www.facebook.com/imon.hosen.abir
-
 [y]: https://youtube.com/ImonHosenAbir  
 [g]: https://github.com/imsenabir  
 
-
-[y]: https://youtube.com/
-[t]: https://x.com/
-[g]: https://github.com/imsenabir
+📫 Let's connect: imonhosenabir@gmail.com
 
 
-📫 Email: imon@gmail.com
-
-
-
-## Hi there 👋
-
-
-**imsenabir/imsenabir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
